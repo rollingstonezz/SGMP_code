@@ -27,4 +27,5 @@ Zheng Zhang, Liang Zhao, Representation Learning on Spatial Networks, **NeurIPS 
 - python build_synthetic_data.py
 
 ** the parameters can be modified in the bash scripts
+
 ** HCP brain network data can be acquired from https://www.humanconnectome.org/ since we cannot re-distribute it.
