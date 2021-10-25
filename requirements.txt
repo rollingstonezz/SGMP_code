@@ -1,0 +1,7 @@
+pytorch 1.7.1
+pytorch-geometric 1.6.3
+rdkit
+numpy
+scipy
+scikit
+tqdm

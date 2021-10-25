@@ -1,0 +1,13 @@
+python3 main_base_st.py --save_dir ./results \
+              --data_dir ./data \
+              --model SGMP \
+              --dataset BACE \
+              --split 811 \
+              --device gpu \
+              --random_seed 1 \
+              --batch_size 64 \
+              --epoch 500 \
+              --lr 1e-3 \
+              --test_per_round 5 \
+              --spanning_tree True \
+              --num_layers 3 

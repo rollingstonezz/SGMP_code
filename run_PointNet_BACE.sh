@@ -1,0 +1,12 @@
+python3 main_base.py --save_dir ./results \
+              --data_dir ./data \
+              --model PointNet \
+              --dataset BACE \
+              --split 811 \
+              --device gpu \
+              --random_seed 1 \
+              --batch_size 64 \
+              --epoch 500 \
+              --lr 1e-3 \
+              --test_per_round 5 \
+              --num_layers 3 
