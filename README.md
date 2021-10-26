@@ -13,13 +13,13 @@ Zheng Zhang, Liang Zhao, Representation Learning on Spatial Networks, **NeurIPS 
 **3. training the PointNet benchmark model on BACE dataset:
 - bash run_PointNet_BACE.sh
 
-**4. training the SGMP model on QM9 dataset for target 0 (mu):
+**4. training the SGMP model on QM9 dataset for target 0 ($\mu$):
 - bash run_SGMP_QM9.sh
 
-**5. training the SGMP model with sampling spanning trees on QM9 dataset for target 0 (mu):
+**5. training the SGMP model with sampling spanning trees on QM9 dataset for target 0 ($\mu$):
 - bash run_SGMP_st_QM9.sh
 
-**6. training the PointNet benchmark model on QM9 dataset for target 0 (mu):
+**6. training the PointNet benchmark model on QM9 dataset for target 0 ($\mu$):
 - bash run_PointNet_QM9.sh
  
 **7. generate synthetic dataset
