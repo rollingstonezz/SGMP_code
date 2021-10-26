@@ -1,8 +1,11 @@
-# SGMP
-This is the code repository for paper "Representation Learning on Spatial Networks".
-Zheng Zhang, Liang Zhao, Representation Learning on Spatial Networks, **NeurIPS 2021**
+# Representation Learning on Spatial Networks
 
-# Examples of running the models:
+This repository is the official implementation of [Representation Learning on Spatial Networks](). 
+
+
+# Training
+
+## Examples of running the models:
 
 **1. training the SGMP model on BACE dataset:
 - bash run_SGMP_BACE.sh
@@ -26,6 +29,11 @@ Zheng Zhang, Liang Zhao, Representation Learning on Spatial Networks, **NeurIPS 
 - cd data
 - python build_synthetic_data.py
 
-** The hyper-parameters can be modified in the bash scripts
 
-** HCP brain network data can be acquired from https://www.humanconnectome.org/ since we cannot re-distribute it.
+## Evaluation
+
+The evaluation will be given in the ./results
+
+
+
+
